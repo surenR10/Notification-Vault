@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.NotificationVault" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- You can customize primary colour here later -->
+        <!-- <item name="colorPrimary">@color/purple_500</item> -->
+    </style>
+</resources>
