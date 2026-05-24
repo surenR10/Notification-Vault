@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification Vault</string>
+    <string name="service_label">Notification Vault Logger</string>
+    <string name="action_search">Search</string>
+    <string name="action_clear_unstarred">Clear Unstarred</string>
+    <string name="action_clear_all">Clear All Logs</string>
+</resources>
